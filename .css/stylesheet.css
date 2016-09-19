@@ -6,8 +6,7 @@ html {
 
   h1{ color: red; }
 
-  body {background-image:
-    url(johnmkreski.github.io/img/havasu.jpg)
-    margin: 0;
+  body.bkground1 {background:color: rgba(0,0,139,.5)}
+
   }
 
