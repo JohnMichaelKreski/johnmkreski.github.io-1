@@ -6,6 +6,6 @@ html {
 
   h1{ color: red; }
 
-  body.bkground1 {background:color: rgba(0,0,139,.5)}
+  .bkground1 {background:color: rgba(0,0,139,.5)}
 
   }
