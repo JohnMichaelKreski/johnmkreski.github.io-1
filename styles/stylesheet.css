@@ -1,1 +1,11 @@
+html {
+  font-family: sans-serif; /* 1 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  }
 
+  h1{ color: red; }
+
+  body.bkground1 {background:color: rgba(0,0,139,.5)}
+
+  }
