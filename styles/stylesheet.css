@@ -5,23 +5,16 @@ html {
   }
 
 h1 { 
-        color: red; 
+        color: white; 
         padding: 0;
-        background-color: #333333;
+        background-color: #666666;
         margin-right: 300;
         margin-left: 300;
 	margin-top: 100;
 	margin-bottom: 100;
 	overflow: hidden;
 	text-align: center;
-	background-color: #333333;
-	margin-right: 300;
-	margin-left: 300;
-	margin-top: 100;
-	margin-bottom: 100;
-	overflow: hidden;
-	text-align: center;
-	
+	font-family: Georgia;
 }
 
 
