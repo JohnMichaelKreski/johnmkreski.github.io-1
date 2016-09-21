@@ -5,7 +5,7 @@ html {
   }
 
 body {
-	background-image: grandcanyon.jpg;
+	/*background-image: grandcanyon.jpg;*/
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -33,10 +33,10 @@ h1 {
 
 h3 {
 	color:white;
-	background-color: #666666);
+	background-color: #666666;
 	font-family:Georgia;
 	border-style: dashed;
-	border-color: lightblue;
+	border-color: white;
 	
 }
 
