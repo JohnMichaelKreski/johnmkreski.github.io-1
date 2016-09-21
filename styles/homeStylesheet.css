@@ -29,6 +29,8 @@ h3 {
 	color:white;
 	background-color: #666666);
 	font-family:Georgia;
+	border-style: dashed;
+	border-color: lightblue;
 	
 }
 
