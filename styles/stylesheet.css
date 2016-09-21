@@ -4,8 +4,27 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
   }
 
-  h1{ color: red; }
+        h1 { 
+          color: red; 
+          padding: 0;
+					background-color: #333333;
+					margin-right: 300;
+					margin-left: 300;
+					margin-top: 100;
+					margin-bottom: 100;
+					overflow: hidden;
+					text-align: center;
+        }
+				
 
-  .bkground1 {background:color: rgba(0,0,139,.5)}
-
-  }
+  			body {
+					background-image: havasu.jpg;
+					background-repeat: no-repeat;
+					background-attachment: fixed;
+					background-position: center;
+					background-size: cover;
+					font-family: Times;
+					color: #000000;
+					padding: 24px;
+					text-align: center;
+				}
