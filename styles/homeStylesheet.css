@@ -29,3 +29,9 @@ h3 {
 	font-family:Georgia;
 	
 }
+
+p.center {
+    text-align: center;
+    color: white;
+    font-family: Times;
+}
