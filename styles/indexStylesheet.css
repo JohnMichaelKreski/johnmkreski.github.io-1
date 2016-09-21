@@ -19,7 +19,7 @@ h1 {
 
 
 body {
-	background-image: url("img/havasu.jpg");
+	background-image: havasu.jpg;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
@@ -30,10 +30,4 @@ body {
 	text-align: center;
 }
 
-p.one {
-	
-  	background-color: #eeeeee;
-  	color: #666666;
-  	text-shadow: 1px 1px 0px #000000;
-	
-}
+
