@@ -31,12 +31,12 @@ h1 {
 
 
 
-li {
+a {
 	color:white;
 	font-family:Georgia;
-	font-size: 200%;
+	font-size: 150%;
 	text-align: left;
-	display: inline;
+	display: block;
 	
 }
 
