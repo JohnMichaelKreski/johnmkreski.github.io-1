@@ -7,7 +7,7 @@ html {
 h1 { 
         color: white; 
         padding: 0;
-        background-color: #666666;
+        background-color: rgba(121, 200, 223, 0.5);
         margin-right: 300;
         margin-left: 300;
 	margin-top: 100;
@@ -31,10 +31,14 @@ body {
 }
 
 div {
-    background-color: rgba(121, 200, 223, 0.5);
-    width: 300px;
-    padding: 30px;
-    margin: 90px;
+	color: white;
+    	background-color: rgba(121, 200, 223, 0.3);
+    	width: 200px;
+    	padding: 30px;
+    	margin-right: 50px;
+    	margin-left: 50px;
+    	margin-top: 130px;
+    	margin-bottom: 40px;
 }
 
 
