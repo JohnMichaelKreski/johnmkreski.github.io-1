@@ -14,7 +14,7 @@ h1 {
 	margin-bottom: 100;
 	overflow: hidden;
 	text-align: center;
-	font-family: Georgia;
+	font-family: Herculanum;
 }
 
 
@@ -31,7 +31,7 @@ body {
 }
 
 div {
-    background-color: lightgrey;
+    background-color: rgba(121, 200, 223, 0.5);
     width: 300px;
     padding: 30px;
     margin: 90px;
