@@ -31,12 +31,11 @@ h1 {
 
 
 
-h3 {
+li {
 	color:white;
 	font-family:Georgia;
-	text-decoration: underline;
 	text-align: left;
-	display: block;
+	display: inline;
 	
 }
 
