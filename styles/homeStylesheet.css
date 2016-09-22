@@ -16,16 +16,21 @@ body {
 }
 
 h1 { 
-        color: white;
+        color: black;
         background-color: #C0C0C0;
-        padding: 0;
-        margin-right: 300;
+        padding: 10;
+        margin-right: 0;
         margin-left: 300;
 	margin-top: 0;
 	margin-bottom: 100;
 	overflow: hidden;
 	text-align: center;
 	font-family: Georgia;
+}
+
+h3 {
+	color:white;
+	background-color: #C0C0C0;
 }
 
 
