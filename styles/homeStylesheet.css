@@ -21,15 +21,15 @@ h1 {
         margin-right: 0;
         margin-left: 300;
 	margin-top: 0;
-	margin-bottom: 100;
+	margin-bottom: 70;
 	overflow: hidden;
 	text-align: center;
 	font-family: Herculanum;
 }
 
 h3 {
-	color:black;
-	background-color: #F8F8F8;
+	color:whitesmoke;
+	background-color: rgba(171,178,185,0.7);
 }
 
 
