@@ -17,7 +17,6 @@ body {
 
 h1 { 
         color: black;
-        background-color: #C0C0C0;
         padding: 10;
         margin-right: 0;
         margin-left: 300;
@@ -29,8 +28,8 @@ h1 {
 }
 
 h3 {
-	color:white;
-	background-color: #C0C0C0;
+	color:black;
+	background-color: #F8F8F8;
 }
 
 
