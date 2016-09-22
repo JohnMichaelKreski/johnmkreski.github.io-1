@@ -10,7 +10,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
-	font-family: Times;
+	font-family: Herculanum;
 	color: #000000;
 	text-align: center;
 }
@@ -25,7 +25,7 @@ h1 {
 	margin-bottom: 100;
 	overflow: hidden;
 	text-align: center;
-	font-family: Georgia;
+	font-family: Herculanum;
 }
 
 h3 {
@@ -38,7 +38,7 @@ h3 {
 
 a {
 	color:white;
-	font-family:Georgia;
+	font-family:Herculanum;
 	font-size: 150%;
 	text-align: left;
 	display: block;
@@ -48,5 +48,5 @@ a {
 p.center {
     text-align: center;
     color: black;
-    font-family: Times;
+    font-family: Herculanum;
 }
