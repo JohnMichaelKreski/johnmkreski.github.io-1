@@ -1,9 +1,13 @@
 body {
-  	background-size: cover;
+	background-image: stown.jpg;
 	background-repeat: no-repeat;
-	background-position: center;
 	background-attachment: fixed;
-	
+	background-position: center;
+	background-size: cover;
+	font-family: Herculanum;
+	color: #000000;
+	padding: 24px;
+	text-align: center;
 }
 
 h1 { 
