@@ -1,12 +1,12 @@
 h1 {
-  color: black;
-  font-size: 40px;
-  font-family: Herculanum;
-  text-align: center;
+  	color: black;
+  	font-size: 40px;
+  	font-family: Herculanum;
+  	text-align: center;
 }
 
 body {
-  background-size: cover;
+  	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
