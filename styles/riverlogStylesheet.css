@@ -27,7 +27,14 @@ table, th, td {
 	
 }
 
-th, td {
+th {
+	font-family: Herculanum;
+	text-align: left;
+
+} 
+
+td {
+	font-family: Herculanum;
     	padding: 5px;
     	text-align: left;
 	
