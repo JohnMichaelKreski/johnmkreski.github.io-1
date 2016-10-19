@@ -1,0 +1,70 @@
+body {
+	background-image: 10.jpg;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+  display:block;
+  color: whitesmoke;
+  padding: 10;
+	margin-bottom: 50;
+	overflow: hidden;
+	text-align: center;
+	font-family: 'Rubik', 'Segoe UI', 'San Francisco', 'Calibri', Arial, sans-serif;
+}
+
+h2 {
+  display: block;
+  color: whitesmoke;
+  padding: 10;
+	overflow: hidden;
+	text-align: center;
+	font-family: 'Rubik', 'Segoe UI', 'San Francisco', 'Calibri', Arial, sans-serif;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100;
+    border-style: inset;
+    border-width: 5px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin-bottom: 80;
+    margin-left: inherit;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    justify-content: center;
+    font-family: 'Rubik', 'Segoe UI', 'San Francisco', 'Calibri', Arial, sans-serif;
+
+}
+
+.button {width:50%;}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
