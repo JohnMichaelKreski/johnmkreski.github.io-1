@@ -1,0 +1,29 @@
+body {
+	background-image: 6.jpg;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+  display:block;
+  color: whitesmoke;
+  padding: 10;
+  margin-top: 30;
+	margin-bottom: 10;
+	overflow: hidden;
+	text-align: center;
+	font-family: 'Rubik', 'Segoe UI', 'San Francisco', 'Calibri', Arial, sans-serif;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100;
+    border-style: inset;
+    border-width: 5px;
+}
